@@ -81,7 +81,7 @@ package leetcode
 import (
 	"sort"
 
-	"github.com/halfrost/LeetCode-Go/structures"
+	"leetcode-by-go/structures"
 )
 
 // TreeNode define

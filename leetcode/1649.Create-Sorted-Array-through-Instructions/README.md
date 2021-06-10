@@ -83,7 +83,7 @@ The total cost is 0 + 0 + 0 + 0 + 1 + 0 + 1 + 0 + 2 = 4.
 package leetcode
 
 import (
-	"github.com/halfrost/LeetCode-Go/template"
+	"leetcode-by-go/template"
 	"sort"
 )
 

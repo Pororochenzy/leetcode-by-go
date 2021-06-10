@@ -71,7 +71,7 @@ Output: [7,9,4,10]
 package leetcode
 
 import (
-	"github.com/halfrost/LeetCode-Go/structures"
+	"leetcode-by-go/structures"
 )
 
 // TreeNode define

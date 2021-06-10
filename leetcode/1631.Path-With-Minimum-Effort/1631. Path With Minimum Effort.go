@@ -3,7 +3,7 @@ package leetcode
 import (
 	"sort"
 
-	"github.com/halfrost/LeetCode-Go/template"
+	"leetcode-by-go/template"
 )
 
 var dir = [4][2]int{

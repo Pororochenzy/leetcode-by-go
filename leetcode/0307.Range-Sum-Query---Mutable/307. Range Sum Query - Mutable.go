@@ -1,7 +1,7 @@
 package leetcode
 
 import (
-	"github.com/halfrost/LeetCode-Go/template"
+	"leetcode-by-go/template"
 )
 
 // NumArray define

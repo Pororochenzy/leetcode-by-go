@@ -1,9 +1,8 @@
 package leetcode
 
-import "math"
-
 import (
-	"github.com/halfrost/LeetCode-Go/structures"
+	"leetcode-by-go/structures"
+	"math"
 )
 
 // TreeNode define

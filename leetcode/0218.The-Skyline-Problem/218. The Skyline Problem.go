@@ -3,7 +3,7 @@ package leetcode
 import (
 	"sort"
 
-	"github.com/halfrost/LeetCode-Go/template"
+	"leetcode-by-go/template"
 )
 
 // 解法一 线段树 Segment Tree，时间复杂度 O(n log n)
