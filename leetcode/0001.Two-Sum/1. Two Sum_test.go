@@ -57,7 +57,7 @@ func Test_Problem1(t *testing.T) {
 
 	for _, q := range qs {
 		_, p := q.ans1, q.para1
-		fmt.Printf("【input】:%v       【output】:%v\n", p, twoSum(p.nums, p.target))
+		fmt.Printf("【input】:%v       【output】:%v\n", p, MytwoSum(p.nums, p.target))
 	}
 	fmt.Printf("\n\n\n")
 }
